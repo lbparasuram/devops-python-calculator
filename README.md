@@ -1,1 +1,1 @@
-# devops-python-calculator
+> python -m pytest
